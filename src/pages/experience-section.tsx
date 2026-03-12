@@ -1,7 +1,7 @@
 "use client";
 
 import { Timeline } from "@/components/ui/timeline";
-import { experienceData } from "@/pages/data/experienceData";
+import { experienceData } from "@/data/experienceData";
 
 export default function ExperienceSection() {
   return (

@@ -6,7 +6,7 @@ import SplitText from "@/app/components/Animation/SplitText";
 import TrueFocus from "@/app/components/Animation/TrueFocus";
 import { FloatingDock } from "@/components/ui/floating-dock";
 
-import { links } from "./data/links";
+import { links } from "../data/links";
 
 export default function HeroSection() {
   return (

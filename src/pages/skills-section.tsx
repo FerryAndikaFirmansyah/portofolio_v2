@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { techStack } from "./data/techStack";
+import { techStack } from "../data/techStack";
 
 export default function SkillsSection() {
   return (
